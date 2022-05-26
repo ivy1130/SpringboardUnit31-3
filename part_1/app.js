@@ -7,7 +7,7 @@
 
 // (Note: You’ll need to make multiple requests for this.)
 
-let baseUrl = 'http://numbersapi.com'
+const baseUrl = 'http://numbersapi.com'
 
 // 1.
 const part1 = async () => {
